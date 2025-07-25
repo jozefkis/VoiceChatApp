@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Audio and video files
+*.mp4
+*.mov
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
