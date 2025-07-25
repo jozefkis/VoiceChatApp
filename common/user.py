@@ -1,5 +1,5 @@
 class User: 
-	def __init__(self, username, status = "ONLINE"): 
+	def __init__(self, username: str, status: str = "ONLINE"): 
 		self.username = username
 		self.status = status
 		
